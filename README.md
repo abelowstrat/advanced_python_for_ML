@@ -98,7 +98,7 @@ Please note that this project is configured to be used on univariate time series
 
 To ensure the reliability of our modules, run the test scripts located in the `test/` directory:
 ```
-python -m unittest discover test
+pytest
 ```
 
 ## Contributing
